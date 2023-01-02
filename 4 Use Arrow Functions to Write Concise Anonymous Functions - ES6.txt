@@ -1,0 +1,12 @@
+//Question  =>
+//Rewrite the function assigned to the variable magic which returns a new Date() to use arrow function syntax. Also, make sure nothing is defined using the keyword var.
+
+
+//code =>
+
+// so basically this tutorial is about "ARROW" functions
+// if there is " () => " then its a arrow function / anonymous functions
+// And if we don't have a function body (only something to return) we can omit the "return" keyword & {} brackets.
+
+
+const magic = () =>  new Date();
